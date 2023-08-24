@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.hhuxy7.bm.mixins",
+  "refmap": "mixins.bettermining.refmap.json",
+  "mixins": [
+    "client.ChunkMixin",
+    "client.MixinGlassPane",
+    "client.MixinModList",
+    "network.MixinNetworkManager",
+    "client.PlayerControllerMixin"
+  ],
+  "client": [
+    "client.MixinChunkProviderClient",
+    "network.MixinNetHandlerPlayClient",
+    "accessors.RenderGlobalAccessor"
+  ]
+}

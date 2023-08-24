@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bettermining",
+  "name": "BetterMining",
+  "description": "Mining QOL",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HHuxy7"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
